@@ -1,0 +1,52 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# --------------------
+# Virtual Environments
+# --------------------
+venv/
+.venv/
+
+# --------------------
+# Environment files
+# --------------------
+.env
+infra/.env
+
+# --------------------
+# IDE / Editors
+# --------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Logs / Temp
+# --------------------
+*.log
+*.tmp
+*.bak
+
+# --------------------
+# Coverage / Testing
+# --------------------
+.coverage
+htmlcov/
+pytest_cache/
+
