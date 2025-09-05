@@ -4,10 +4,7 @@ Smallholder farmers in India and similar regions face significant barriers when 
 (Measurement, Reporting, and Verification) systems are manual, expensive, and designed for large-scale farms, making them inaccessible, slow, and error-prone for
 small farmers. Farmers often cannot prove their sustainable practices, leading to lost economic opportunities and limited adoption of climate-friendly agriculture. 
 Additionally, delayed or inaccurate verification reduces trust in the carbon credit system, further discouraging participation.
-
-
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Proposed Solution / Prototype
 
 Our prototype is a web-based MRV platform tailored specifically for smallholder farmers. It allows farmers to log in, input crop yields, and upload receipts, which are
@@ -25,10 +22,7 @@ Digital Wallet Integration: Verified carbon credits are instantly added to a far
 
 The web interface is built using React.js and JavaScript, with a backend powered by Python (FastAPI) or Node.js, and data is stored in PostgreSQL or MongoDB. Optional 
 future enhancements include remote sensing and GIS integration to verify crops at scale.
-
-
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Key Features
 
 Web and mobile-friendly interface for easy farmer access.
@@ -43,8 +37,7 @@ Digital wallet for instant rewards and tracking.
 
 Dashboard analytics for farmers and administrators.
 
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Impact & Advantages
 
@@ -60,6 +53,7 @@ Scalability: The platform can scale across thousands of farmers, and optional re
 
 Environmental Benefits: Encourages climate-smart farming, reducing emissions and supporting India’s NDC goals.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Key Innovation / Differentiator
 
 The platform’s unique value lies in combining AI/ML verification, multi-layer data checks, and instant wallet-based credit issuance into a single, user-friendly system. 
