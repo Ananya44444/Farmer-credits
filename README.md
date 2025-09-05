@@ -56,5 +56,6 @@ Environmental Benefits: Encourages climate-smart farming, reducing emissions and
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Key Innovation / Differentiator
+
 The platform’s unique value lies in combining AI/ML verification, multi-layer data checks, and instant wallet-based credit issuance into a single, user-friendly system. 
 Unlike traditional MRV solutions, which are manual, costly, and inaccessible to smallholders, this prototype delivers fast, accurate, transparent, and scalable carbon credit management, making sustainable farming practical and rewarding.
