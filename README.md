@@ -4,6 +4,7 @@ Smallholder farmers in India and similar regions face significant barriers when 
 (Measurement, Reporting, and Verification) systems are manual, expensive, and designed for large-scale farms, making them inaccessible, slow, and error-prone for
 small farmers. Farmers often cannot prove their sustainable practices, leading to lost economic opportunities and limited adoption of climate-friendly agriculture. 
 Additionally, delayed or inaccurate verification reduces trust in the carbon credit system, further discouraging participation.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Proposed Solution / Prototype
 
@@ -22,6 +23,7 @@ Digital Wallet Integration: Verified carbon credits are instantly added to a far
 
 The web interface is built using React.js and JavaScript, with a backend powered by Python (FastAPI) or Node.js, and data is stored in PostgreSQL or MongoDB. Optional 
 future enhancements include remote sensing and GIS integration to verify crops at scale.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Key Features
 
@@ -38,7 +40,6 @@ Digital wallet for instant rewards and tracking.
 Dashboard analytics for farmers and administrators.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Impact & Advantages
 
 Farmer Empowerment: Smallholders can now participate in carbon markets easily and confidently, earning tangible rewards for sustainable practices.
@@ -55,6 +56,5 @@ Environmental Benefits: Encourages climate-smart farming, reducing emissions and
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Key Innovation / Differentiator
-
 The platform’s unique value lies in combining AI/ML verification, multi-layer data checks, and instant wallet-based credit issuance into a single, user-friendly system. 
 Unlike traditional MRV solutions, which are manual, costly, and inaccessible to smallholders, this prototype delivers fast, accurate, transparent, and scalable carbon credit management, making sustainable farming practical and rewarding.
